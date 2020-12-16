@@ -11,7 +11,6 @@ Untuk menghindari keretakan software dikarenakan perubahan secara langsung terha
 - Program ini berjalan pada console, sehingga jalankan dengan Run Without Debug.
 
 # Coupon Without OCP.
-dari awal diberikan kode sebagai berikut  :
 - Class Coupon
 ``` C#
 class Coupon
