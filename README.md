@@ -70,10 +70,10 @@ class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Bro !");
             Coupon coupon1 = new CouponWithNominal(2000);
             Console.WriteLine(coupon1.calculate(10000));
         }
     }
 ```
-Kemudian disempurnakan atau diexplorasikan lagi.
+Kemudian disempurnakan lagi
